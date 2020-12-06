@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Santa's Cookies", "01.Santa's Cookies\01.Santa's Cookies.csproj", "{4B5F63A9-AB6E-403C-B414-363C0FAFD943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Santa's Gifts", "02.Santa's Gifts\02.Santa's Gifts.csproj", "{3A39E95E-7AF6-47BD-BA02-17D671EF9C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5F63A9-AB6E-403C-B414-363C0FAFD943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5F63A9-AB6E-403C-B414-363C0FAFD943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5F63A9-AB6E-403C-B414-363C0FAFD943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5F63A9-AB6E-403C-B414-363C0FAFD943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A39E95E-7AF6-47BD-BA02-17D671EF9C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A39E95E-7AF6-47BD-BA02-17D671EF9C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A39E95E-7AF6-47BD-BA02-17D671EF9C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A39E95E-7AF6-47BD-BA02-17D671EF9C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B85B86A-2DAF-4731-882A-B2D85F9EB522}
+	EndGlobalSection
+EndGlobal
